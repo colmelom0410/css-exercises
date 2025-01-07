@@ -1,0 +1,20 @@
+/* style.css */
+
+.redblack{
+    color: black;
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.cooler{
+    font-size: 20px;
+}
+#Number2 {
+    color: blue;
+    font-size: 20px;
+}
+
+#Number4 {
+    color: black;
+    background-color: rgb(126, 211, 126);
+    font-weight: bold;
+}
